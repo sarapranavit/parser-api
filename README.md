@@ -40,4 +40,4 @@ Code Coverage
     
         npm run coverage
 
-After run command check the /coverage/index.html 
+After run command check the file /coverage/index.html
